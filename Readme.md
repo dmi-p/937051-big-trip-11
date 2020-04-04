@@ -1,7 +1,7 @@
 # Личный проект «Большое путешествие» [![Build status][travis-image]][travis-url]
 
 * Студент: [Dmitry Prokopenkov](https://up.htmlacademy.ru/ecmascript/11/user/937051).
-* Наставник: `Неизвестно`.
+* Наставник: [Виталий Кравцов](https://up.htmlacademy.ru/ecmascript/11/user/64132).
 
 ---
 
